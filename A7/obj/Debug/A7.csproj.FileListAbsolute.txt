@@ -1,0 +1,8 @@
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\bin\Debug\A7.exe.config
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\bin\Debug\A7.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\bin\Debug\A7.pdb
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\obj\Debug\A7.csproj.AssemblyReference.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\obj\Debug\A7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\obj\Debug\A7.csproj.CoreCompileInputs.cache
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\obj\Debug\A7.exe
+C:\Users\Keerthana\OneDrive\Desktop\job\simpli\A7\A7\obj\Debug\A7.pdb
