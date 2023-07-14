@@ -66,7 +66,7 @@ namespace A7
                         Console.WriteLine("Enter the value you want to delete : ");
                         ele = Console.ReadLine();
                         al.Remove(ele);
-                        Console.WriteLine("Array list after removing Banana from list ");
+                        Console.WriteLine($"Array list after removing {ele} from list ");
                         foreach (var i in al)
                         {
                             Console.WriteLine(i);
@@ -80,16 +80,6 @@ namespace A7
                 Console.WriteLine("If you want to continue type yes ");
                 quit=Console.ReadLine().ToLower();
             } while (quit == "yes");
-            
-
-
-            
-        
-            
-
-          
-        
-           
         
 
             Console.ReadKey();
